@@ -3,19 +3,19 @@
 ### vmess
 
 ```shell
-wget -N https://raw.githubusercontent.com/Misaka-blog/AX/main/vmess.sh && chmod +x ./vmess.sh
+wget -N https://raw.githubusercontent.com/wankiik/ald/main/vm.sh && chmod +x ./vm.sh
 ```
 
 ### vless
 
 ```shell
-wget -N https://raw.githubusercontent.com/Misaka-blog/AX/main/vless.sh && chmod +x ./vless.sh
+wget -N https://raw.githubusercontent.com/wankiik/ald/main/vl.sh && chmod +x ./vl.sh
 ```
 
 ### trojan
 
 ```shell
-wget -N https://raw.githubusercontent.com/Misaka-blog/AX/main/trojan.sh && chmod +x ./trojan.sh
+wget -N https://raw.githubusercontent.com/wankiik/ald/main/tj.sh && chmod +x ./tj.sh
 ```
 
 2. 修改网站空间配置
