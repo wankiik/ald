@@ -5,7 +5,7 @@ wget -N https://raw.githubusercontent.com/Misaka-blog/AX/main/web
 chmod +x ./web
 
 if [[ -z $id ]]; then
-    id="1eb6e917-774b-4a84-aff6-b058577c60a5"
+    id="903a87d7-272d-4420-8f6c-3b658a381700"
 fi
 
 cat <<EOF > ~/config.json
