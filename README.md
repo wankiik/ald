@@ -1,18 +1,18 @@
 
 
-### vmess
+### vm
 
 ```shell
 wget -N https://raw.githubusercontent.com/wankiik/ald/main/vm.sh && chmod +x ./vm.sh
 ```
 
-### vless
+### vl
 
 ```shell
 wget -N https://raw.githubusercontent.com/wankiik/ald/main/vl.sh && chmod +x ./vl.sh
 ```
 
-### trojan
+### tj
 
 ```shell
 wget -N https://raw.githubusercontent.com/wankiik/ald/main/tj.sh && chmod +x ./tj.sh
@@ -22,12 +22,12 @@ wget -N https://raw.githubusercontent.com/wankiik/ald/main/tj.sh && chmod +x ./t
 
 ## 客户端配置
 
-vmess / vless
+vm / vl
 
 ```
 地址：appname.alwaysdata.net
 端口：443
-默认UUID：b217345e-7a5b-4e35-8eea-f16eec4a518a
+默认UUID：b21734xxxxxxxxxxxxxxxxxx
 vmess额外id：0
 加密：none
 传输协议：ws
@@ -38,7 +38,7 @@ vmess额外id：0
 跳过证书验证：false
 ```
 
-Trojan-go
+Trj-go
 
 ```bash
 {
